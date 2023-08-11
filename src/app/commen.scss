@@ -1,0 +1,86 @@
+.mainbody {
+  background-color: rgb(237 229 232);
+}
+
+.offer {
+  height: 400px !important;
+  width: 1290px !important;
+}
+
+.newcollecton {
+  font-family: cambria;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 20px;
+  color: #900c3f;
+}
+
+.hr {
+  width: 40%;
+  margin: auto;
+  color: #900c3f;
+  border: 2px solid;
+  margin-bottom: 10px;
+}
+
+.productlist {
+  display: flex;
+  position: relative;
+  padding: 0.2em 0;
+  color: black;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+}
+
+.productlistnameicon {
+  font-size: 1.2rem;
+}
+
+.productlistnameicon:hover {
+  font-size: 1.5rem;
+  color: #d7a0b5 !important;
+  background-color: #900c3f !important;
+  transition: 0.7s;
+}
+.productlistnameicon:active {
+  color: #d7a0b5 !important;
+  background-color: #900c3f !important;
+}
+
+.images {
+  height: 130px !important;
+  object-fit: contain !important;
+  // width: 100% !important;
+  border-radius: 10px;
+}
+.seemorebtn {
+  background-color: #900c3f;
+  color: white;
+}
+
+.seemorebtn:hover {
+  background-color: black;
+  color: #d7a0b5;
+}
+.btnclr {
+  color: #900c3f;
+  background-color: #d7a0b5;
+}
+
+.btnclr:hover {
+  color: #d7a0b5;
+  background-color: black;
+}
+
+.bdgclr {
+  background-color: black;
+  color: white;
+}
+
+.txtclr {
+  color: white;
+}
+.delclr {
+  color: #d7a0b5;
+}
